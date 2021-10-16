@@ -1,0 +1,23 @@
+body {
+    color: black;
+    padding-top: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 25px;
+    margin-left: 80px;
+    margin-top: 5px;
+}
+
+div {
+    float: left;
+    font-weight: normal;
+    width: 400px;
+    height: 250px;
+    padding: 50px;
+    border: 3px solid rgb(66, 233, 66);
+    margin-right: 50px;
+}
+
+#box {
+    background-color: rgb(63, 222, 158);
+}
