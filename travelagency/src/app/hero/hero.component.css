@@ -1,0 +1,27 @@
+.header {
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 20px;
+    padding-bottom: 18px;
+    color: rgb(66, 233, 66);
+}
+
+.carousel-inner {
+    height: 80vh;
+}
+
+
+/*--- not in line and overlaps with the original control buttons ---*/
+
+
+/* .carousel-control-next-icon:after {
+    content: '>';
+    font-size: 53px;
+    color: rgb(66, 233, 66);
+}
+
+.carousel-control-prev:after {
+    content: '<';
+    font-size: 53px;
+    color: rgb(66, 233, 66);
+} */
